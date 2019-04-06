@@ -1,0 +1,84 @@
+/* p{
+	font-size: 20px;
+	color:rgb(128,0,196);
+}
+h2
+	  {
+	    color:#FFD700;
+	  
+	  } */
+
+
+/* p h1, h2 {
+	color: red;
+}
+ */
+
+/*we can group multiple styles */
+
+#myCanvas
+{
+	border:1px solid #000000;
+    border-width: 5px;
+	border-style: dotted;
+	border-color: red;
+	margin-top: 25px;
+}
+
+body {
+	background-image: url("../images/homeicon.jpg");
+	background-repeat:no-repeat; 
+	background-position:top right;
+}
+
+h2 {
+	background-color: yellow;
+	text-align: center;
+	text-decoration: inherit; p { font-family : .GaramondTimes New Roman,
+	serif;
+	font-size: 1em;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: underline;
+	line-height: 1cm;
+	/* 	word-spacing: 1cm; */
+	/* letter-spacing: 1cm; */
+}
+
+.c1 {
+	color: purple;
+	text-decoration: overline;
+	font-size: 30px;
+}
+
+.c2 {
+	color: maroon;
+	text-decoration: line-through;
+	font-size: 40px;
+	text-align: center;
+}
+
+#pid {
+	color: green;
+}
+
+.txt {
+	text-align: center;
+	font-size: 30px;
+}
+
+.clr {
+	background-color: blue;
+	color: white;
+}
+
+ol {
+	list-style-type: decimal-leading-zero;
+}
+
+ul {
+	list-style-type: lower-greek;
+}
+
+
